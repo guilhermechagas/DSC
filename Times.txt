@@ -1,0 +1,4 @@
+1 - Cruzeiro
+2 - Grêmio
+3 - Atlético PR
+4 - Botafogo
